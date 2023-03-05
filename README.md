@@ -1,4 +1,4 @@
-# chat_app_v2
+# telegram_trial_v2
 
 A new Flutter project.
 
